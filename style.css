@@ -4,7 +4,7 @@
     src: url('assets/fonts/Roboto-Mono-VariableFont_wwgh.ttf') format('truetype');
 }
 
-/* Font Settings */
+/* Font Settings */ 
 body, h2, p, button, label, span {
     font-family: 'Roboto', Arial, sans-serif; /* Use Roboto, fallback to Arial or sans-serif */
 }
